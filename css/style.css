@@ -8,8 +8,11 @@ body{
 .banner-column{
     background-color: #8A888A;
 }
-.navbar-contain{
+.navbar-container{
+    top: 0;
     background-color: #1E212A;
+    position: sticky;
+    z-index: 2;
 }
 .about-container{
     background-color: #019698;
