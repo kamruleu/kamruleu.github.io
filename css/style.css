@@ -1,3 +1,29 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.banner-container{
+    background-color: #CBCACC;
+}
+.banner-column{
+    background-color: #8A888A;
+}
+.navbar-contain{
+    background-color: #1E212A;
+}
+.about-container{
+    background-color: #019698;
+}
+.education-container{
+    background-color: #EEEDEF;
+}
+.redtype-color{
+    color: #FB8580;
+}
+.circle{
+    background-color: #FB8580;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
